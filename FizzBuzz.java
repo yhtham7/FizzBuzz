@@ -29,7 +29,7 @@ class FizzBuzz {
         out += "Fizz";
       }
       if (i % 5 == 0) {
-        out += "Buzz";
+        out += "Buzzzzz";
       }
       if (out.equals("")) {
         out = "" + i;
