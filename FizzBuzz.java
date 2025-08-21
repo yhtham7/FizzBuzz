@@ -26,7 +26,7 @@ class FizzBuzz {
       */
       String out = "";
       if (i % 3 == 0) {
-        out += "Fizz";
+        out += "Fiz";
       }
       if (i % 5 == 0) {
         out += "Buzzzzz";
